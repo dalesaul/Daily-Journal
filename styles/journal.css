@@ -24,3 +24,8 @@ form{
 label {
     font-family: "Fira Sans", sans-serif;
 }
+
+
+#journalEntry{
+    resize: both;
+}
